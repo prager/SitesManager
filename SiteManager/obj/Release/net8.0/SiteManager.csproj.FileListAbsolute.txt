@@ -163,3 +163,4 @@ D:\github\SiteManager\SiteManager\obj\Release\net8.0\refint\SiteManager.dll
 D:\github\SiteManager\SiteManager\obj\Release\net8.0\SiteManager.pdb
 D:\github\SiteManager\SiteManager\obj\Release\net8.0\SiteManager.genruntimeconfig.cache
 D:\github\SiteManager\SiteManager\obj\Release\net8.0\ref\SiteManager.dll
+D:\github\SiteManager\SiteManager\obj\Release\net8.0\SiteManager.sourcelink.json

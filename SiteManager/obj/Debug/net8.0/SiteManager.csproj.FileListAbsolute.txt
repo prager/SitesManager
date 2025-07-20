@@ -163,3 +163,4 @@ D:\github\SiteManager\SiteManager\bin\Debug\net8.0\runtimes\browser\lib\net8.0\S
 D:\github\SiteManager\SiteManager\obj\Debug\net8.0\SiteManager.csproj.AssemblyReference.cache
 D:\github\SiteManager\SiteManager\obj\Debug\net8.0\SiteMana.B2CE11F0.Up2Date
 D:\github\SiteManager\SiteManager\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\github\SiteManager\SiteManager\obj\Debug\net8.0\SiteManager.sourcelink.json

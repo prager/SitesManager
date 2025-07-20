@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\dotnet\publish\sitemanager-pub</_PublishTargetUrl>
-    <History>True|2025-07-16T05:07:54.5265477Z||;</History>
+    <History>True|2025-07-20T23:33:31.1148280Z||;True|2025-07-15T22:07:54.5265477-07:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
